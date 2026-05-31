@@ -5,7 +5,7 @@ A simple text-based Hangman game built using Python.
 
 ## Features
 - Random word selection
-- 7 incorrect guesses allowed
+- 6 incorrect guesses allowed
 - User-friendly interface
 
 ## Technologies
