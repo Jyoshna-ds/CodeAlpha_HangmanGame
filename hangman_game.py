@@ -14,7 +14,7 @@ words = ["python", "program", "computer", "smartphone", "student"]
 word = random.choice(words)
 guessed = ["_"] * len(word)
 
-attempts = 7
+attempts = 6
 
 print("Welcome to Hangman!")
 
